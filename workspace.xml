@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be44005-7569-4316-a9cb-d4b67e5d9923" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../car/Blueprints/lamborghini-aventador-front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/Blueprints/lamborghini-aventador-rear.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/Blueprints/lamborghini-aventador-side.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/Blueprints/lamborghini-aventador-top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/Lamborghini Aventador tutorial on YouTube.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/Rendering of the completed model.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Assembly.SLDASM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Body.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Brake - 1.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Brake - 2.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Brake - 3.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Brake.SLDASM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Front Grid.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Front Lights.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Grille.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Mirrors.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Rear Bumper.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Rear grid.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Rear lights.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Rear opening.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Rim.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Tire.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Wheel Center.SLDPRT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/LA - Wheels.SLDASM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/Lamborghini Fonts/How to install the font.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/Lamborghini Fonts/La Macchina Font For Mac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/Lamborghini Fonts/La Macchina Font For Windows.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Files Lamborghini Aventador/lamborghini_logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car/SolidWorks Screenshot Lamborghini.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CbPuKk26uP7gRz1WoV88AUyCfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be44005-7569-4316-a9cb-d4b67e5d9923" name="Default Changelist" comment="" />
+      <created>1659068532453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659068532453</updated>
+    </task>
+    <servers />
+  </component>
+</project>
